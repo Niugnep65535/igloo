@@ -1,36 +1,21 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: About
 ---
+各位好，我是 Niugnep。
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+本站點是 Niugnep 用於測試 BearBlog 在手機、電腦等各平台上的相容性與使用難度的地方，測試完畢若方便使用，就會轉移給我媽[夜星見](https://home.gamer.com.tw/profile/index_creation.php?owner=atdream&folder=530650)。
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## 測試內容
+- [ ] 電腦上網頁版編輯
+- [ ] CSS 編輯
+- [ ] 主題豐富度
+- [X] 手機上網頁版編輯
+- [ ] 媒體插入
+- [ ] 使用限制程度
+- [ ] Markdown 支援
+- [ ] RSS 訂閱功能
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+請多指教，曹家軍[^1]滾出去。
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+[^1]: 我爸活著，我媽不是人妻
